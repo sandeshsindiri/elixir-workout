@@ -13,6 +13,6 @@ defmodule Workout do
 
   """
   def hello do
-    :world
+    :"Hare Krishna"
   end
 end
